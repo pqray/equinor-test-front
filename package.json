@@ -1,13 +1,7 @@
 {
-  "name": "react-leaflet-map-with-marker",
+  "name": "equinor-test",
   "version": "0.0.54",
   "description": null,
-  "keywords": [
-    "map",
-    "leaflet",
-    "react"
-  ],
-  "homepage": "https://codesandbox.io/s/m4k3x1ynl8",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.0",

@@ -29,7 +29,6 @@ class MyMap extends React.Component {
 
   render() {
     let pins = null
-    console.log(this.state)
     if (this.state.pins) {
       pins = this.state.pins.map(pin => (
         <MarkComponent
