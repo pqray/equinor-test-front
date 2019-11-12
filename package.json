@@ -8,7 +8,7 @@
     "google-map-react": "^1.1.5",
     "leaflet": "latest",
     "react": "16.0.0",
-    "react-dom": "16.0.0",
+    "react-dom": "16.0.1",
     "react-leaflet": "^2.5.0",
     "react-modal": "^3.11.1"
   },
