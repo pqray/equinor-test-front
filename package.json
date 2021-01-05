@@ -4,7 +4,7 @@
   "description": null,
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "google-map-react": "^1.1.5",
     "leaflet": "latest",
     "react": "16.0.0",
